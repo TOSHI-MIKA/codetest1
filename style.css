@@ -1,0 +1,175 @@
+.container{
+
+padding: 10px 10px;
+
+}
+
+head{
+
+  font:#656565
+
+}
+
+
+image{
+
+max-width: 100%;
+
+}
+
+.space{
+
+padding-left: 15px;
+
+}
+
+.imagespace{
+
+padding-top: 50px;
+
+}
+
+.header{
+  background-color:white
+}
+
+.logo{
+  width: 400px;
+  height: 50px;
+  text-align:center;
+}
+
+ul{
+
+list-style: none;
+flex-direction: row;
+
+}
+
+body{
+
+color: #666666;
+
+}
+
+.main{
+  background-color:white;
+}
+
+.footer{
+
+ text-align:center;
+ background-color: white;
+}
+
+
+
+/* シンプル 枠 1*/
+.kakomi-box1 {
+  margin: 2em auto;
+  padding: 1em;
+  width: 90%;
+  background-color: #fff; /* 背景色 */
+  border: 1px solid #ccc; /* 枠線 */
+ }
+ .orange{
+  color:#D08047
+}
+
+ .orangewrap {
+    margin: 1em 0;
+    padding: 1em;
+    background-color: #D08047;
+    border-radius: 10px;
+  }
+
+  .orangewrap p{
+    margin: 0;
+    padding: 0;
+    padding-left: 0;
+    color:white
+  }
+
+  .wood{
+
+  border-radius: 10px;
+  width: 100%;    /* 横幅を割合で指定 */
+  height: auto;  /* 高さは自動指定 */
+  }
+
+.woodmini{
+
+  width: 380px;
+  height: 135px;
+
+}
+
+.gallery{
+
+  width: 260px;
+  height: 260px;
+  margin: 20px  20px;
+
+}
+
+ .whitewrap {
+  margin: 1em 0;
+  padding: 1em;
+  background-color:white;
+  border-radius: 10px;
+  border:solid 1px gray;
+}
+
+.whitewrap p{
+  margin: 0;
+  padding: 0em;
+  padding-left: 0;
+}
+
+.global-nav {
+  float: none;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.global-nav li {
+  display: inline;
+  float: none;
+  margin: 0 8px;
+}
+
+.table{
+
+  border-spacing: 0;
+  line-height: 1;
+
+
+}
+
+.look {
+  background: #e5e5e5;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+
+
+
+nav li a{
+
+  padding:15px 30px;
+  text-decoration: none;
+
+}
+
+
+nav li a:hover{
+  border-bottom:4px solid #d08047 ;
+}
+
+a{
+
+  transition: 0.3s;
+
+}
